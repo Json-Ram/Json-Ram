@@ -1,6 +1,6 @@
-### Hey there 👋😁
+## Hey there 👋😁
 
-#### I'm Jason, a Full Stack Web Developer from Vancouver, BC!
+### I'm Jason, a Full Stack Web Developer from Vancouver, BC!
 
 - ⌨️ How to reach me: jasonram778@gmail.com
 - 🤠 Pronouns: He/Him
