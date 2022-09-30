@@ -2,7 +2,7 @@
 
 ### I'm Jason, a Full Stack Web Developer from Vancouver, BC!
 
-- ⌨️ How to reach me: jasonram778@gmail.com or jasonr#0633 on Discord
+- ⌨️ How to reach me: jasonram778@gmail.com or jasonr#0633 on Discord;
 - 🤠 Pronouns: He/Him;
 - 📝 Currently Learning: C#;
 - 👷‍♂️ Currently Working on: My first Unity game!;
