@@ -2,10 +2,11 @@
 
 ### I'm Jason, a Full Stack Web Developer from Vancouver, BC!
 
-- ⌨️ How to reach me: jasonram778@gmail.com
-- 🤠 Pronouns: He/Him
-- 👷‍♂️ Currently working on: A Youtube clone for memes!
-- 🦖 Fun fact: I don't drink water, only Pepsi Zero Sugar.
+- ⌨️ How to reach me: jasonram778@gmail.com or jasonr#0633 on Discord
+- 🤠 Pronouns: He/Him;
+- 📝 Currently Learning: C#;
+- 👷‍♂️ Currently Working on: My first Unity game!;
+- 🦖 Fun fact: I don't drink water, only Diet Dr Pepper;
 
 ## Tech Stack 🥞
 
