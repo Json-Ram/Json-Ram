@@ -4,8 +4,8 @@
 
 - ⌨️ How to reach me: jasonram778@gmail.com or jasonr#0633 on Discord;
 - 🤠 Pronouns: He/Him;
-- 📝 Currently Learning: C#;
-- 👷‍♂️ Currently Working on: My first Unity game!;
+- 📝 Currently Learning: C# and Unity
+- 👷‍♂️ Currently Working on: My second Unity game, ProtonAssault
 - 🦖 Fun fact: I don't drink water, only Diet Dr Pepper;
 
 ## Tech Stack 🥞
