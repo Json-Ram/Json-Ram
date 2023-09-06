@@ -1,6 +1,4 @@
-# Hey there 👋😁
-
-## I'm Jason, a Full Stack Web Developer from Vancouver, BC!
+# Hey there! I'm Jason, a Full Stack Web Developer from Vancouver, BC!
 
 - 📝 Currently Learning: TypeScript, Next.js;
 - 👷‍♂️ Currently Working on: A car rental website built on Next.js;
