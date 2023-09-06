@@ -2,10 +2,9 @@
 
 ## I'm Jason, a Full Stack Web Developer from Vancouver, BC!
 
-- ⌨️ How to reach me: jasonram778@gmail.com or jasonr#0633 on Discord;
-- 🤠 Pronouns: He/Him;
-- 📝 Currently Learning: TypeScript, Next.js
-- 👷‍♂️ Currently Working on: A car rental website built on Next.js
+- 📝 Currently Learning: TypeScript, Next.js;
+- 👷‍♂️ Currently Working on: A car rental website built on Next.js;
+- ⌨️ How to reach me: jasonram778@gmail.com;
 
 ## Tech Stack 🥞
 
@@ -20,6 +19,15 @@
         alt="JAVASCRIPT"
       />
       <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://titrias.com/files/2022/04/typescript.png"
+        width="48"
+        height="48"
+        alt="TYPESCRIPT"
+      />
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -81,6 +89,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
+        width="48"
+        height="48"
+        alt="NEXT"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
         width="48"
         height="48"
@@ -88,6 +105,14 @@
       />
       <br /><strong>NodeJS</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        width="48"
+        height="48"
+        alt="TAILWIND"
+      />
+      <br /><strong>Tailwind</strong>
     <td align="center" height="108" width="108">
       <img
         src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
