@@ -2,10 +2,10 @@
 # I'm Jason, a Full Stack Software Developer from Vancouver, BC.
 
 - 📝 Currently Learning: TypeScript, Next.js;
-- 👷‍♂️ Currently Working on: A car rental website built on Next.js;
+- 👷‍♂️ Currently Working on: An ecommerce site built with Next.js, Supabase, Prisma;
 - ⌨️ How to reach me: jasonram778@gmail.com;
 
-## Tech Stack 🥞
+## Tech Stack
 
 <table>  
   <tr>
@@ -54,15 +54,6 @@
         alt="CSS"
       />
       <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
-        width="48"
-        height="48"
-        alt="PYTHON"
-      />
-      <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -142,16 +133,7 @@
           alt="POSTGRESQL"
         />
         <br /><strong>PostgreSQL</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          width="48"
-          height="48"
-          alt="MYSQL"
-        />
-        <br /><strong>mySQL</strong>
-      </td>     
+      </td>    
   </tr>
 
   <tr>
@@ -201,15 +183,6 @@
       />
       <br /><strong>Chai</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
-        width="48"
-        height="48"
-        alt="RSPEC"
-      />
-      <br /><strong>RSpec</strong>
-    </td>
   </tr>  
   
   <tr>
@@ -226,7 +199,7 @@
   </tr>
   
   <tr>
-    <td>Version Control etc.</td>
+    <td>Version Control</td>
     <td align="center" height="108" min-width="108">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
